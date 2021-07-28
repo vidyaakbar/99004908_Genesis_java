@@ -86,7 +86,7 @@ public void displayMake() {
 }
 
 
-public class Main_Vehicles {
+public class Vehicle {
 
 	public static void main(String[] args) {
 	    TwoWheeler two_w;
